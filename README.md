@@ -1,4 +1,4 @@
-# service-configurator
+# Service Configurator
 > A command-line environment provisioning utility for distributed microservices architectures.
 
 ## Overview
